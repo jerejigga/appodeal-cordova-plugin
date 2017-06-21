@@ -1,6 +1,6 @@
 # Appodeal Cordova Plugin
 
-This is an official Appodeal Cordova plugin, created to support Appodeal SDK with Apache Cordova.
+This is NOT an official Appodeal Cordova plugin
 
 ## SDK
 [![](https://img.shields.io/badge/docs-android-green.svg)](http://www.appodeal.com/sdk/documentation?framework=9&full=1&platform=1)
