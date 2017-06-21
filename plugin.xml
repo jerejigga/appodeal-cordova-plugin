@@ -179,14 +179,14 @@
             <activity android:name="com.cmcm.picks.vastvideo.FullScreenVideoActivity" android:excludeFromRecents="true" android:launchMode="singleInstance" android:screenOrientation="landscape"/>
         </config-file>
         <source-file src="src/android/AppodealPlugin.java" target-dir="src/com/appodeal/plugin" />
-        <source-file src="libs/android/appodeal-1.15.9.jar" target-dir="libs" />
-        <source-file src="libs/android/applovin-6.3.0.jar" target-dir="libs" />
-        <source-file src="libs/android/chartboost-6.6.1.jar" target-dir="libs" />
-        <source-file src="libs/android/flurry-analytics-6.5.0.jar" target-dir="libs" />
-        <source-file src="libs/android/my-target-4.5.10.jar" target-dir="libs" />
-        <source-file src="libs/android/yandex-metrica-2.62.jar" target-dir="libs" />
-        <source-file src="libs/android/unity-ads-2.0.4.jar" target-dir="libs" />
-        <framework src="libs/android/cheetah-mobile" custom="true" />
+        <source-file src="libs/Android/appodeal-1.15.9.jar" target-dir="libs" />
+        <source-file src="libs/Android/applovin-6.3.0.jar" target-dir="libs" />
+        <source-file src="libs/Android/chartboost-6.6.1.jar" target-dir="libs" />
+        <source-file src="libs/Android/flurry-analytics-6.5.0.jar" target-dir="libs" />
+        <source-file src="libs/Android/my-target-4.5.10.jar" target-dir="libs" />
+        <source-file src="libs/Android/yandex-metrica-2.62.jar" target-dir="libs" />
+        <source-file src="libs/Android/unity-ads-2.0.4.jar" target-dir="libs" />
+        <framework src="libs/Android/cheetah-mobile" custom="true" />
     </platform>
 
     <platform name="ios">
